@@ -1,21 +1,21 @@
 ![Header](./emmanuel-github-header-image.png)
 <h1 align="center">Hi 👋, I'm Emmanuel Adepoju</h1>
-<h3 align="center">A Data Engineer from Nigeria</h3>
+<h3 align="center">A Data/AI Engineer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 
 
 
-- 🌱 I’m currently learning **Deploying Infrastructure with Microsoft Azure, Data Streaming with Kafka** , **While Preparing for my Azure Data Engineering Certification**
+- 🌱 I’m currently learning **Building AI/Data Driven Products**
 
-- 👯 I’m looking to collaborate on **Data Engineering & Cloud Related projects**
+- 👯 I’m looking to collaborate on **Data Engineering & AI Related projects**
 
 - 📝 I plan to write articles on [https://emmanueladepoju.hashnode.dev/](https://emmanueladepoju.hashnode.dev/)
 
-- 💬 Ask me about **Python, Azure, GCP**
+- 💬 Ask me about **Data Engineer / AI Projects**
 
 - 📫 How to reach me **femiemmanuel1990@gmail.com**
 
-- ⚡ Fun fact **I'm a Huge music lover and a fan of Dogs**
+- ⚡ Fun fact **I'm a Huge music lover and a fan of Chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
